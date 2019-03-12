@@ -1,4 +1,4 @@
-# Concern Definition ([Concern Name])
+# Concern Weather
 
 **Concern-Tag :** `weather`
 
@@ -73,9 +73,10 @@ Response
 }
 ```
 
-### current weather brief
+### current weather brief TBD
 
-**Type-Tag:** `weather_current`
+**Type-Tag:** `weather_current_TBD`
+Currenctly not implemented has to be specified for further use
 
 #### Request
 
