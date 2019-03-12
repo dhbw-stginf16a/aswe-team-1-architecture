@@ -1,227 +1,344 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 452.34 323.18" style="enable-background:new 0 0 452.34 323.18;" xml:space="preserve">
+	 viewBox="0 0 579.39 323.18" style="enable-background:new 0 0 579.39 323.18;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st1{fill:none;}
-	.st2{font-family:'ArialMT';}
-	.st3{font-size:12px;}
-	.st4{display:none;}
-	.st5{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#F15A29;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{fill:#F15A29;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:12px;}
+	.st6{fill:#00A651;}
+	.st7{fill:none;stroke:#00A651;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#2E3192;stroke-miterlimit:10;}
+	.st9{fill:#2E3192;}
+	.st10{fill:none;stroke:#7F3F98;stroke-miterlimit:10;}
+	.st11{fill:#7F3F98;}
+	.st12{font-family:'MyriadPro-Regular';}
+	.st13{display:none;}
+	.st14{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
 </style>
 <g id="All_stuff">
-	<rect x="256.12" y="143.02" class="st0" width="158.29" height="71.35"/>
+	<rect x="238.81" y="143.02" class="st0" width="269.95" height="71.35"/>
+	<rect x="322.31" y="149.06" class="st1" width="67.6" height="43.15"/>
+	<rect x="322.31" y="164.18" class="st2" width="67.6" height="12.92"/>
+	<text transform="matrix(1 0 0 1 331.7657 172.7674)" class="st3 st4 st5">Prefstore</text>
+	<rect x="234.41" y="70.35" class="st0" width="135.52" height="28.03"/>
+	<rect x="234.41" y="79.56" class="st2" width="135.52" height="9.62"/>
+	<text transform="matrix(1 0 0 1 281.1572 88.149)" class="st4 st5">Adapter</text>
+	<rect x="234.41" y="29.68" class="st0" width="135.52" height="28.03"/>
+	<rect x="234.41" y="31.6" class="st2" width="135.52" height="24.18"/>
+	<text transform="matrix(1 0 0 1 280.8271 40.1944)"><tspan x="0" y="0" class="st4 st5">external</tspan><tspan x="11.67" y="14.4" class="st4 st5">API</tspan></text>
 	<g>
-		<rect x="262.41" y="149.06" class="st0" width="67.6" height="43.15"/>
-		<rect x="340.52" y="149.06" class="st0" width="67.6" height="43.15"/>
-	</g>
-	<rect x="262.41" y="164.18" class="st1" width="67.6" height="12.92"/>
-	<text transform="matrix(1 0 0 1 272.8627 172.7674)" class="st2 st3">Infostore</text>
-	<rect x="340.52" y="164.18" class="st1" width="67.6" height="12.92"/>
-	<text transform="matrix(1 0 0 1 349.9815 172.7674)" class="st2 st3">Prefstore</text>
-	<rect x="231.11" y="11.54" class="st0" width="202.53" height="95.08"/>
-	<g>
 		<g>
-			<rect x="251.73" y="70.35" class="st0" width="55.51" height="28.03"/>
-			<rect x="251.73" y="79.56" class="st1" width="55.51" height="9.62"/>
-			<text transform="matrix(1 0 0 1 258.4662 88.149)" class="st2 st3">Adapter</text>
-		</g>
-		<g>
-			<rect x="251.73" y="29.68" class="st0" width="55.51" height="28.03"/>
-			<rect x="251.73" y="31.6" class="st1" width="55.51" height="24.18"/>
-			<text transform="matrix(1 0 0 1 258.1352 40.1949)"><tspan x="0" y="0" class="st2 st3">external</tspan><tspan x="11.67" y="14.4" class="st2 st3">API</tspan></text>
-		</g>
-		<g>
+			<line class="st0" x1="301.17" y1="70.35" x2="301.17" y2="61.3"/>
 			<g>
-				<line class="st0" x1="279.48" y1="70.35" x2="279.48" y2="61.3"/>
-				<g>
-					<polygon points="281.97,62.03 279.48,57.71 276.99,62.03 					"/>
-				</g>
+				<polygon points="303.66,62.03 301.17,57.71 298.67,62.03 				"/>
 			</g>
 		</g>
 	</g>
-	<rect x="231.11" y="14.29" class="st1" width="202.53" height="10.72"/>
-	<text transform="matrix(1 0 0 1 241.0098 22.8816)" class="st2 st3">Data Sources (Monitoring Entities)</text>
+	<rect x="213.8" y="14.29" class="st2" width="202.53" height="10.72"/>
+	<text transform="matrix(1 0 0 1 223.6968 22.8816)" class="st4 st5">Data Sources (Monitoring Entities)</text>
 	<g>
 		<g>
-			<rect x="313.89" y="70.35" class="st0" width="55.51" height="28.03"/>
-			<rect x="313.89" y="79.56" class="st1" width="55.51" height="9.62"/>
-			<text transform="matrix(1 0 0 1 320.6342 88.149)" class="st2 st3">Adapter</text>
+			<rect x="379.65" y="70.35" class="st0" width="55.51" height="28.03"/>
+			<rect x="379.65" y="79.56" class="st2" width="55.51" height="9.62"/>
+			<text transform="matrix(1 0 0 1 386.3897 88.149)" class="st4 st5">Adapter</text>
 		</g>
 		<g>
-			<rect x="313.89" y="29.68" class="st0" width="55.51" height="28.03"/>
-			<rect x="313.89" y="31.6" class="st1" width="55.51" height="24.18"/>
-			<text transform="matrix(1 0 0 1 320.3031 40.1949)"><tspan x="0" y="0" class="st2 st3">external</tspan><tspan x="11.67" y="14.4" class="st2 st3">API</tspan></text>
+			<rect x="379.65" y="29.68" class="st0" width="55.51" height="28.03"/>
+			<rect x="379.65" y="31.6" class="st2" width="55.51" height="24.18"/>
+			<text transform="matrix(1 0 0 1 386.0587 40.1949)"><tspan x="0" y="0" class="st4 st5">external</tspan><tspan x="11.67" y="14.4" class="st4 st5">API</tspan></text>
 		</g>
 		<g>
 			<g>
-				<line class="st0" x1="341.65" y1="70.35" x2="341.65" y2="61.3"/>
+				<line class="st0" x1="407.4" y1="70.35" x2="407.4" y2="61.3"/>
 				<g>
-					<polygon points="344.14,62.03 341.65,57.71 339.16,62.03 					"/>
+					<polygon points="409.9,62.03 407.4,57.71 404.91,62.03 					"/>
 				</g>
 			</g>
 		</g>
 	</g>
 	<g>
-		<circle cx="389.65" cy="62.86" r="2.4"/>
-		<circle cx="406.66" cy="62.86" r="2.4"/>
-		<circle cx="398.15" cy="62.86" r="2.4"/>
+		<circle cx="455.41" cy="62.86" r="2.4"/>
+		<circle cx="472.41" cy="62.86" r="2.4"/>
+		<circle cx="463.91" cy="62.86" r="2.4"/>
+	</g>
+	<g>
+		<line class="st6" x1="250.23" y1="143.02" x2="250.23" y2="98.21"/>
+		<g>
+			<line class="st7" x1="250.23" y1="143.02" x2="250.23" y2="101.8"/>
+			<g>
+				<polygon class="st6" points="252.73,102.53 250.23,98.21 247.74,102.53 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<line class="st6" x1="252.98" y1="97.87" x2="252.98" y2="143.02"/>
+		<g>
+			<line class="st7" x1="252.98" y1="97.87" x2="252.98" y2="139.43"/>
+			<g>
+				<polygon class="st6" points="250.49,138.7 252.98,143.02 255.48,138.7 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="202.82" y="111.49" class="st2" width="44.79" height="26.66"/>
+	<text transform="matrix(1 0 0 1 202.9146 120.0842)"><tspan x="0" y="0" class="st6 st4 st5">Request </tspan><tspan x="19.35" y="14.4" class="st6 st4 st5">Data</tspan></text>
+	<rect x="32.64" y="239.85" class="st0" width="73.44" height="37.51"/>
+	<rect x="32.64" y="253.41" class="st2" width="73.44" height="10.37"/>
+	<text transform="matrix(1 0 0 1 49.0167 262.0056)" class="st4 st5">Watson</text>
+	<g>
+		<g>
+			<line class="st8" x1="104.59" y1="171.68" x2="235.22" y2="171.68"/>
+			<g>
+				<polygon class="st9" points="234.49,174.17 238.81,171.68 234.49,169.19 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="154.16" y="160.91" class="st2" width="79.88" height="10.79"/>
+	<text transform="matrix(1 0 0 1 155.412 169.4981)" class="st9 st4 st5">Forward Intent</text>
+	<rect x="30.65" y="117.54" class="st0" width="118.73" height="85.58"/>
+	<rect x="39.1" y="165.02" class="st0" width="65.49" height="28.03"/>
+	<rect x="39.1" y="174.22" class="st2" width="65.49" height="9.62"/>
+	<text transform="matrix(1 0 0 1 50.8286 182.815)" class="st4 st5">Adapter</text>
+	<g>
+		<rect x="39.1" y="124.35" class="st0" width="55.51" height="28.03"/>
+		<rect x="39.1" y="133.63" class="st2" width="55.51" height="9.46"/>
+		<text transform="matrix(1 0 0 1 40.1743 142.2216)" class="st4 st5">Chatclient</text>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="286.78" y1="149.06" x2="286.78" y2="110.21"/>
+			<line class="st0" x1="66.85" y1="161.43" x2="66.85" y2="152.38"/>
 			<g>
-				<polygon points="289.28,110.94 286.78,106.63 284.29,110.94 				"/>
+				<polygon points="69.35,160.7 66.85,165.02 64.36,160.7 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<circle cx="114.74" cy="158.97" r="2.4"/>
+		<circle cx="131.74" cy="158.97" r="2.4"/>
+		<circle cx="123.24" cy="158.97" r="2.4"/>
+	</g>
+	<g>
+		<g>
+			<line class="st8" x1="41.77" y1="193.05" x2="41.77" y2="236.26"/>
+			<g>
+				<polygon class="st9" points="39.28,235.53 41.77,239.85 44.26,235.53 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="303.97" y1="106.63" x2="303.97" y2="145.47"/>
+			<line class="st8" x1="238.81" y1="174.35" x2="108.18" y2="174.35"/>
 			<g>
-				<polygon points="301.47,144.74 303.97,149.06 306.46,144.74 				"/>
+				<polygon class="st9" points="108.91,171.86 104.59,174.35 108.91,176.85 				"/>
 			</g>
 		</g>
 	</g>
-	<rect x="239.13" y="111.49" class="st1" width="44.79" height="26.66"/>
-	<text transform="matrix(1 0 0 1 239.2285 120.0842)"><tspan x="0" y="0" class="st2 st3">Request </tspan><tspan x="6" y="14.4" class="st2 st3">Update</tspan></text>
-	<rect x="306.57" y="111.49" class="st1" width="46.72" height="26.66"/>
-	<text transform="matrix(1 0 0 1 306.5723 120.0843)"><tspan x="0" y="0" class="st2 st3">Provide</tspan><tspan x="0" y="14.4" class="st2 st3">Info</tspan></text>
+	<rect x="44.13" y="207.27" class="st2" width="44.79" height="26.66"/>
+	<text transform="matrix(1 0 0 1 44.1261 215.8647)"><tspan x="0" y="0" class="st9 st4 st5">Forward</tspan><tspan x="0" y="14.4" class="st9 st4 st5">Request</tspan></text>
+	<rect x="149.38" y="175.11" class="st2" width="89.43" height="10.19"/>
+	<text transform="matrix(1 0 0 1 158.0781 183.7026)" class="st9 st4 st5">Answeraction</text>
+	<rect x="239.35" y="159.71" class="st2" width="77.5" height="13.19"/>
+	<text transform="matrix(1 0 0 1 242.7531 168.2982)" class="st4 st5">Central Node</text>
+	<rect x="239.35" y="247.41" class="st0" width="206.22" height="37.51"/>
+	<rect x="239.35" y="253.39" class="st2" width="157.75" height="24.11"/>
+	<text transform="matrix(1 0 0 1 307.2255 261.9787)"><tspan x="0" y="0" class="st4 st5">Skill</tspan><tspan x="-18.01" y="14.4" class="st4 st5">(Use case)</tspan></text>
 	<g>
-		<rect x="46.95" y="159.94" class="st0" width="64.47" height="37.51"/>
-		<rect x="46.95" y="173.5" class="st1" width="64.47" height="10.37"/>
-		<text transform="matrix(1 0 0 1 58.8462 182.0958)" class="st2 st3">Watson</text>
+		<rect x="470.01" y="247.41" class="st0" width="64.47" height="37.51"/>
+		<rect x="470.01" y="253.39" class="st2" width="64.47" height="24.11"/>
+		<text transform="matrix(1 0 0 1 491.2451 261.9787)"><tspan x="0" y="0" class="st4 st5">Skill</tspan><tspan x="-18.01" y="14.4" class="st4 st5">(Use case)</tspan></text>
+	</g>
+	<g>
+		<circle cx="554.67" cy="266.17" r="2.4"/>
+		<circle cx="571.68" cy="266.17" r="2.4"/>
+		<circle cx="563.17" cy="266.17" r="2.4"/>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="111.42" y1="171.68" x2="252.53" y2="171.68"/>
+			<line class="st8" x1="269.13" y1="246.86" x2="269.13" y2="218.51"/>
 			<g>
-				<polygon points="251.8,174.17 256.12,171.68 251.8,169.19 				"/>
-			</g>
-		</g>
-	</g>
-	<rect x="152.01" y="160.91" class="st1" width="64.12" height="10.79"/>
-	<text transform="matrix(1 0 0 1 169.0571 169.4986)" class="st2 st3">Intent</text>
-	<rect x="47.96" y="37.63" class="st0" width="118.73" height="85.58"/>
-	<g>
-		<g>
-			<rect x="56.41" y="85.11" class="st0" width="55.51" height="28.03"/>
-			<rect x="56.41" y="94.31" class="st1" width="55.51" height="9.62"/>
-			<text transform="matrix(1 0 0 1 63.1533 102.9047)" class="st2 st3">Adapter</text>
-		</g>
-		<g>
-			<rect x="56.41" y="44.44" class="st0" width="55.51" height="28.03"/>
-			<rect x="56.41" y="53.72" class="st1" width="55.51" height="9.46"/>
-			<text transform="matrix(1 0 0 1 57.4872 62.3113)" class="st2 st3">Chatclient</text>
-		</g>
-		<g>
-			<g>
-				<line class="st0" x1="84.17" y1="81.52" x2="84.17" y2="72.47"/>
-				<g>
-					<polygon points="86.66,80.79 84.17,85.11 81.67,80.79 					"/>
-				</g>
-			</g>
-		</g>
-	</g>
-	<g>
-		<circle cx="132.05" cy="79.06" r="2.4"/>
-		<circle cx="149.06" cy="79.06" r="2.4"/>
-		<circle cx="140.55" cy="79.06" r="2.4"/>
-	</g>
-	<g>
-		<g>
-			<line class="st0" x1="84.17" y1="113.14" x2="84.17" y2="156.35"/>
-			<g>
-				<polygon points="81.67,155.62 84.17,159.94 86.66,155.62 				"/>
+				<polygon class="st9" points="271.62,219.24 269.13,214.92 266.64,219.24 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="256.12" y1="184.35" x2="115.01" y2="184.35"/>
+			<line class="st8" x1="271.59" y1="214.92" x2="271.59" y2="243.27"/>
 			<g>
-				<polygon points="115.74,181.86 111.42,184.35 115.74,186.85 				"/>
+				<polygon class="st9" points="269.1,242.54 271.59,246.86 274.08,242.54 				"/>
 			</g>
 		</g>
 	</g>
-	<rect x="86.52" y="127.36" class="st1" width="44.79" height="26.66"/>
-	<text transform="matrix(1 0 0 1 86.523 135.9544)"><tspan x="0" y="0" class="st2 st3">Forward</tspan><tspan x="0" y="14.4" class="st2 st3">Request</tspan></text>
-	<rect x="155.17" y="185.11" class="st1" width="63.96" height="10.19"/>
-	<text transform="matrix(1 0 0 1 155.1715 193.7026)" class="st2 st3">Answerdata</text>
-	<rect x="256.12" y="198.3" class="st1" width="158.98" height="13.19"/>
-	<text transform="matrix(1 0 0 1 300.2578 206.8931)" class="st2 st3">Central Node</text>
+	<rect x="221.82" y="218.46" class="st2" width="44.79" height="27.76"/>
+	<text transform="matrix(1 0 0 1 222.6001 227.0488)"><tspan x="0" y="0" class="st9 st4 st5">Answer</tspan><tspan x="40.01" y="0" class="st9 st4 st5">-</tspan><tspan x="11.99" y="14.4" class="st9 st4 st5">action</tspan></text>
+	<rect x="275.59" y="218.92" class="st2" width="46.72" height="27.29"/>
+	<text transform="matrix(1 0 0 1 275.5903 227.5097)"><tspan x="0" y="0" class="st9 st4 st5">Forward </tspan><tspan x="0" y="14.4" class="st9 st4 st5">Intent</tspan></text>
 	<g>
 		<g>
-			<rect x="258.06" y="278.06" class="st0" width="64.47" height="37.51"/>
-			<rect x="258.06" y="284.04" class="st1" width="64.47" height="24.11"/>
-			<text transform="matrix(1 0 0 1 279.2947 292.6277)"><tspan x="0" y="0" class="st2 st3">Skill</tspan><tspan x="-18.01" y="14.4" class="st2 st3">(Use case)</tspan></text>
-		</g>
-		<g>
-			<rect x="346.44" y="278.06" class="st0" width="64.47" height="37.51"/>
-			<rect x="346.44" y="284.04" class="st1" width="64.47" height="24.11"/>
-			<text transform="matrix(1 0 0 1 367.6802 292.6277)"><tspan x="0" y="0" class="st2 st3">Skill</tspan><tspan x="-18.01" y="14.4" class="st2 st3">(Use case)</tspan></text>
-		</g>
-		<g>
-			<circle cx="431.1" cy="296.81" r="2.4"/>
-			<circle cx="448.11" cy="296.81" r="2.4"/>
-			<circle cx="439.61" cy="296.81" r="2.4"/>
-		</g>
-		<g>
+			<line class="st8" x1="39.15" y1="239.85" x2="39.15" y2="196.64"/>
 			<g>
-				<g>
-					<g>
-						<line class="st0" x1="282.65" y1="278.06" x2="282.65" y2="218.51"/>
-						<g>
-							<polygon points="285.14,219.24 282.65,214.92 280.15,219.24 							"/>
-						</g>
-					</g>
-				</g>
-				<g>
-					<g>
-						<line class="st0" x1="299.83" y1="214.92" x2="299.83" y2="274.47"/>
-						<g>
-							<polygon points="297.34,273.74 299.83,278.06 302.32,273.74 							"/>
-						</g>
-					</g>
-				</g>
+				<polygon class="st9" points="41.65,197.37 39.15,193.05 36.66,197.37 				"/>
 			</g>
-			<rect x="234.99" y="218.92" class="st1" width="44.79" height="55.51"/>
-			<text transform="matrix(1 0 0 1 235.0929 227.5101)"><tspan x="0" y="0" class="st2 st3">Request </tspan><tspan x="19.35" y="14.4" class="st2 st3">Data</tspan><tspan x="36.69" y="28.8" class="st2 st3">&amp;</tspan><tspan x="4.68" y="43.2" class="st2 st3">Answer</tspan></text>
-			<rect x="302.44" y="218.92" class="st1" width="46.72" height="55.51"/>
-			<text transform="matrix(1 0 0 1 302.4376 227.5097)"><tspan x="0" y="0" class="st2 st3">Provide</tspan><tspan x="0" y="14.4" class="st2 st3">Info</tspan><tspan x="0" y="28.8" class="st2 st3">&amp;</tspan><tspan x="0" y="43.2" class="st2 st3">Request</tspan></text>
 		</g>
+	</g>
+	<rect x="-17.31" y="212.25" class="st2" width="54.26" height="13.33"/>
+	<text transform="matrix(1 0 0 1 6.9271 220.8454)" class="st9 st4 st5">Intent</text>
+	<g>
 		<g>
+			<line class="st10" x1="275.05" y1="98.04" x2="275.05" y2="139.6"/>
 			<g>
-				<g>
-					<line class="st0" x1="369.52" y1="278.06" x2="369.52" y2="218.51"/>
-					<g>
-						<polygon points="372.02,219.24 369.52,214.92 367.03,219.24 						"/>
-					</g>
-				</g>
+				<polygon class="st11" points="272.56,138.87 275.05,143.19 277.55,138.87 				"/>
 			</g>
+		</g>
+	</g>
+	<rect x="278.57" y="110.24" class="st2" width="46.72" height="25.94"/>
+	<text transform="matrix(1 0 0 1 278.574 118.828)"><tspan x="0" y="0" class="st11 st4 st5">Push </tspan><tspan x="0" y="14.4" class="st11 st4 st5">Update</tspan></text>
+	<rect x="337.89" y="110.07" class="st2" width="52.02" height="25.94"/>
+	<text transform="matrix(1 0 0 1 337.8887 118.6571)"><tspan x="0" y="0" class="st3 st4 st5">Get User </tspan><tspan x="0" y="14.4" class="st3 st4 st5">Data</tspan></text>
+	<g>
+		<g>
+			<line class="st1" x1="331.34" y1="149.06" x2="331.34" y2="101.84"/>
 			<g>
-				<g>
-					<line class="st0" x1="386.71" y1="214.92" x2="386.71" y2="274.47"/>
-					<g>
-						<polygon points="384.21,273.74 386.71,278.06 389.2,273.74 						"/>
-					</g>
-				</g>
+				<polygon class="st3" points="333.84,102.57 331.34,98.25 328.85,102.57 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="72.55" y1="159.94" x2="72.55" y2="116.73"/>
+			<line class="st1" x1="333.36" y1="97.87" x2="333.36" y2="145.47"/>
 			<g>
-				<polygon points="75.04,117.46 72.55,113.14 70.06,117.46 				"/>
+				<polygon class="st3" points="330.87,144.74 333.36,149.06 335.86,144.74 				"/>
 			</g>
 		</g>
 	</g>
-	<rect x="24.55" y="127.36" class="st1" width="44.79" height="26.66"/>
-	<text transform="matrix(1 0 0 1 29.3338 135.9544)"><tspan x="0" y="0" class="st2 st3">Answer</tspan><tspan x="16.68" y="14.4" class="st2 st3">Text</tspan></text>
+	<g>
+		<line class="st6" x1="426.28" y1="247.41" x2="426.28" y2="214.37"/>
+		<g>
+			<line class="st7" x1="426.28" y1="247.41" x2="426.28" y2="217.95"/>
+			<g>
+				<polygon class="st6" points="428.78,218.68 426.28,214.37 423.79,218.68 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<line class="st6" x1="428.99" y1="214.37" x2="428.99" y2="247.41"/>
+		<g>
+			<line class="st7" x1="428.99" y1="214.37" x2="428.99" y2="243.82"/>
+			<g>
+				<polygon class="st6" points="426.5,243.09 428.99,247.41 431.48,243.09 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="379.29" y="217.91" class="st2" width="44.79" height="27.57"/>
+	<text transform="matrix(1 0 0 1 379.3896 226.4977)"><tspan x="0" y="0" class="st6 st4 st5">Request </tspan><tspan x="19.35" y="14.4" class="st6 st4 st5">Data</tspan></text>
+	<g>
+		<g>
+			<line class="st10" x1="501.42" y1="214.37" x2="501.42" y2="243.82"/>
+			<g>
+				<polygon class="st11" points="498.93,243.09 501.42,247.41 503.91,243.09 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="504.94" y="217.92" class="st2" width="46.72" height="25.94"/>
+	<text transform="matrix(1 0 0 1 504.9414 226.5101)"><tspan x="0" y="0" class="st11 st4 st5">Push </tspan><tspan x="0" y="14.4" class="st11 st4 st5">Update</tspan></text>
+	<g>
+		<g>
+			<line class="st10" x1="439.05" y1="214.37" x2="439.05" y2="243.82"/>
+			<g>
+				<polygon class="st11" points="436.55,243.09 439.05,247.41 441.54,243.09 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st10" x1="441.98" y1="217.95" x2="441.98" y2="247.41"/>
+			<g>
+				<polygon class="st11" points="439.48,218.68 441.98,214.37 444.47,218.68 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="445.57" y="217.92" class="st2" width="51.78" height="25.94"/>
+	<text transform="matrix(1 0 0 1 445.5725 226.51)"><tspan x="0" y="0" class="st11 st4 st5">Proactive</tspan><tspan x="0" y="14.4" class="st11 st4 st5">Action</tspan></text>
+	<g>
+		<g>
+			<line class="st10" x1="238.81" y1="185.3" x2="108.18" y2="185.3"/>
+			<g>
+				<polygon class="st11" points="108.91,182.81 104.59,185.3 108.91,187.79 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="149.38" y="187.86" class="st2" width="89.43" height="12.97"/>
+	<text transform="matrix(1 0 0 1 150.7422 196.45)" class="st11 st4 st5">Proactive Action</text>
+	<rect x="330.95" y="217.92" class="st2" width="52.02" height="25.94"/>
+	<text transform="matrix(1 0 0 1 330.947 226.5102)"><tspan x="0" y="0" class="st3 st4 st5">Get User </tspan><tspan x="0" y="14.4" class="st3 st4 st5">Data</tspan></text>
+	<g>
+		<g>
+			<line class="st1" x1="325.09" y1="247.05" x2="325.09" y2="196.21"/>
+			<g>
+				<polygon class="st3" points="327.59,196.94 325.09,192.62 322.6,196.94 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st1" x1="327.09" y1="192.21" x2="327.09" y2="243.46"/>
+			<g>
+				<polygon class="st3" points="324.59,242.73 327.09,247.05 329.58,242.73 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st8" x1="98.42" y1="193.05" x2="98.42" y2="236.26"/>
+			<g>
+				<polygon class="st9" points="95.93,235.53 98.42,239.85 100.91,235.53 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st8" x1="95.8" y1="239.85" x2="95.8" y2="196.64"/>
+			<g>
+				<polygon class="st9" points="98.29,197.37 95.8,193.05 93.31,197.37 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st10" x1="103.05" y1="193.05" x2="103.05" y2="236.26"/>
+			<g>
+				<polygon class="st11" points="100.56,235.53 103.05,239.85 105.55,235.53 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st10" x1="100.44" y1="239.85" x2="100.44" y2="196.64"/>
+			<g>
+				<polygon class="st11" points="102.93,197.37 100.44,193.05 97.94,197.37 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="104.59" y="207.27" class="st2" width="50.4" height="26.66"/>
+	<text transform="matrix(1 0 0 1 104.5879 215.8647)"><tspan x="0" y="0" class="st4 st5">Action to </tspan><tspan x="0" y="14.4" class="st4 st5">answer</tspan></text>
+	<g>
+		<rect x="30.65" y="15.34" class="st9" width="8.79" height="8.79"/>
+		<rect x="44.39" y="15.15" class="st2" width="141.44" height="9.21"/>
+		<text transform="matrix(1 0 0 1 44.3913 23.6745)" class="st12 st5">Reactive Actionflow</text>
+		<rect x="30.65" y="29.8" class="st11" width="8.79" height="8.79"/>
+		<rect x="44.39" y="29.61" class="st2" width="141.44" height="9.21"/>
+		<text transform="matrix(1 0 0 1 44.3913 38.1325)" class="st12 st5">Proaktive Actionflow</text>
+		<rect x="30.65" y="44.26" class="st6" width="8.79" height="8.79"/>
+		<rect x="44.39" y="44.07" class="st2" width="141.44" height="9.21"/>
+		<text transform="matrix(1 0 0 1 44.3913 52.5905)" class="st12 st5">Additional Datarequests</text>
+		<rect x="30.65" y="58.72" class="st3" width="8.79" height="8.79"/>
+		<rect x="44.39" y="58.53" class="st2" width="141.44" height="9.21"/>
+		<text transform="matrix(1 0 0 1 44.3913 67.0485)" class="st12 st5">Global/User Preferenzes</text>
+	</g>
 </g>
-<g id="More_frames" class="st4">
-	<rect x="231.11" y="229.74" class="st5" width="202.53" height="66.5"/>
+<g id="More_frames" class="st13">
+	<rect x="213.8" y="229.74" class="st14" width="202.53" height="66.5"/>
 </g>
 </svg>
