@@ -16,6 +16,7 @@
 \newcommand{\themename}{\textbf{\textsc{metropolis}}\xspace}
 
 \usepackage{graphicx}
+\usepackage{listings}
 
 \usepackage{lmodern}
 
@@ -106,6 +107,23 @@
   \begin{center}
     \Large \textit{API DOCUMENTATION}
   \end{center}
+\end{frame}
+
+\section{Tests}
+
+\begin{frame}[fragile]
+  \begin{lstlisting}
+def test_intentInput(self, client, skill):
+  body = {
+    'skill' : skill,
+    'payload' : {},
+    'user_handle' : 'AntonHynkel',
+    'input_service' : 'Volksempfaenger'
+  }
+  response = client.post('/api/v1/request', json=body)
+  assert response.status_code == 200
+  \end{lstlisting}
+  \includegraphics[width=\textwidth]{CodeCoverage}
 \end{frame}
 
 \section{Design patterns}
