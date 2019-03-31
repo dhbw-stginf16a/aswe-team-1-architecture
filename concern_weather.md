@@ -113,6 +113,62 @@ Response
 }
 ```
 
+### Weather forecast
+
+**Type-Tag:** `weather_forecast`
+
+Will return the weather data with a 5 day forecast and for a 3h time frame
+
+#### Request
+
+- **location** (String): [see](#general-parameters)
+- **time** (String): unix time stamp (UTC) to request the data of
+
+#### Response
+
+- **data** (JSON): of type 1[Description]
+
+#### Example
+
+Request
+
+```json
+{
+  "type": "weather_forecast",
+  "payload": {
+    "location": "Stuttgart,de"
+    "time": "1406106045"
+  }
+}
+```
+
+Response
+
+```json
+{
+  "type": "weather_current",
+  "payload": {
+    "data": {
+        "dt":1406106000,
+        "main":{
+            "temp":298.77,
+            "temp_min":298.77,
+            "temp_max":298.774,
+            "pressure":1005.93,
+            "sea_level":1018.18,
+            "grnd_level":1005.93,
+            "humidity":87,
+            "temp_kf":0.26},
+        "weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],
+        "clouds":{"all":88},
+        "wind":{"speed":5.71,"deg":229.501},
+        "sys":{"pod":"d"},
+        "dt_txt":"2014-07-23 09:00:00"
+    }
+  }
+}
+```
+
 ## Subscription Types
 
 ### [Type Name]
